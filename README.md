@@ -1,2 +1,2 @@
 # core
-CNN built with Keras to determine if EKG(Electrocardiogram) data indicates tachycardia or bradycardia conditions
+CNN built with Keras to determine if EKG(Electrocardiogram) data indicates anomalies such as tachycardia or bradycardia conditions.
